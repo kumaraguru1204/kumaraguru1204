@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 What I'm Working On
-- 🛠 Constantly learning and refining my full-stack skills
+- 🛠 [Edude](https://github.com/kumaraguru1204/Edude) - A Simple yet useful managament system for teachers and students using Django and React
 
 ---
 
